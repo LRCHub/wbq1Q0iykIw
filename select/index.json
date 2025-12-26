@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ムスビメ",
+  "base_artist": "大原ゆい子",
+  "createdAt": "2025-12-26T14:25:25.414117Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ムスビメ",
+      "artist": "大原ゆい子",
+      "has_synced": true,
+      "path": "select/01_ムスビメ_大原ゆい子.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ムスビメ",
+      "artist": "Yuiko Ōhara - Topic",
+      "has_synced": true,
+      "path": "select/02_ムスビメ_Yuiko_Ōhara_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ムスビメ",
+      "artist": "Yuiko Ohara",
+      "has_synced": true,
+      "path": "select/03_ムスビメ_Yuiko_Ohara.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ムスビメ",
+      "artist": "大原ゆい子",
+      "has_synced": true,
+      "path": "select/04_ムスビメ_大原ゆい子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ムスビメ",
+      "artist": "大原ゆい子",
+      "has_synced": false,
+      "path": "select/pl_01_ムスビメ_大原ゆい子.txt"
+    }
+  ]
+}
